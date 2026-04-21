@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; /*para o site ficar nativo em qualquer sistema*/
+  font-family: 'Space Mono', monospace;
   background-color: #0f1220;
   color: #e5e7eb;
   line-height: 1.75;
