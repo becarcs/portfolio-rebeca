@@ -327,7 +327,8 @@ body::before {
   right: -60px;
   width: 380px;
   height: 380px;
-  background-image: url('bebel.png');
+  background: red;
+  opacity: 0.3;
   background-size: contain;
   background-repeat: no-repeat;
   opacity: 0.06;
