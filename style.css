@@ -316,8 +316,7 @@ h3 { margin-bottom: 18px; }
     flex-direction: column;
     gap: 16px;
   }
-
-  /* ACCENT */
+    /* ACCENT */
 .accent { color: #FF1493; }
 
 /* MARCA D'ÁGUA DA BEBEL */
@@ -334,6 +333,5 @@ body::before {
   opacity: 0.06;
   pointer-events: none;
   z-index: 0;
-}
 }
 
