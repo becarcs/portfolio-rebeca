@@ -316,5 +316,24 @@ h3 { margin-bottom: 18px; }
     flex-direction: column;
     gap: 16px;
   }
+
+  /* ACCENT */
+.accent { color: #FF1493; }
+
+/* MARCA D'ÁGUA DA BEBEL */
+body::before {
+  content: '';
+  position: fixed;
+  bottom: -60px;
+  right: -60px;
+  width: 380px;
+  height: 380px;
+  background-image: url('bebel.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.06;
+  pointer-events: none;
+  z-index: 0;
+}
 }
 
