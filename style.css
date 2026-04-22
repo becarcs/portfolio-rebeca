@@ -328,7 +328,7 @@ body::before {
   right: -60px;
   width: 380px;
   height: 380px;
-  background-image: url('bebel.png');
+  background-image: url('https://raw.githubusercontent.com/becarcs/portfolio-rebeca/main/bebel.png');
   background-size: contain;
   background-repeat: no-repeat;
   opacity: 0.06;
