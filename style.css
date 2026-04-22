@@ -317,20 +317,3 @@ h3 { margin-bottom: 18px; }
     gap: 16px;
   } 
 }
-/* ACCENT */
-.accent { color: #FF1493; }
-
-body::before {
-  content: '';
-  position: fixed;
-  bottom: -60px;
-  right: -60px;
-  width: 380px;
-  height: 380px;
-  background-image: url('https://raw.githubusercontent.com/becarcs/portfolio-rebeca/main/bebel.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  opacity: 0.5; 
-  pointer-events: none;
-  z-index: 9999; 
-}
