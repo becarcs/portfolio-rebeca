@@ -328,7 +328,7 @@ body::before {
   right: -60px;
   width: 380px;
   height: 380px;
-  background-image: url('URL_DA_IMAGEM_DA_BEBEL_NO_GITHUB');
+  background-image: url('bebel.png');
   background-size: contain;
   background-repeat: no-repeat;
   opacity: 0.06;
